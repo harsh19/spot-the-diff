@@ -1,0 +1,8 @@
+#mkdir images
+#mkdir resized_images
+#mkdir cluster_images
+# TODO: upload to s3 and download data through script
+
+# For now, download images from google drive 
+# resized_images: https://drive.google.com/file/d/1OVb4_3Uec_xbyUk90aWC6LFpKsIOtR7v/view?usp=sharing
+# cluster_images: https://drive.google.com/drive/folders/1zUxY1CMbNjD64OoK34Z412z7cRfvOHqH?usp=sharing
