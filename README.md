@@ -19,7 +19,8 @@ Harsh Jhamtani, Taylor Berg-Kirkpatrick. Learning to Describe Differences Betwee
 - For more details, check Code/usage.ipynb
 
 ## Code
-TODO
+- Clustering code has been added
+- Model code: TODO
 
 ## Requirements
 TODO
