@@ -1,6 +1,6 @@
 # Spot-the-diff
-Harsh Jhamtani, Taylor Berg-Kirkpatrick. Learning to Describe Differences Between Pairs of Similar Images. EMNLP 2018
-
+Harsh Jhamtani, Taylor Berg-Kirkpatrick. Learning to Describe Differences Between Pairs of Similar Images. EMNLP 2018 </br>
+Link: https://arxiv.org/pdf/1808.10584.pdf
 
 ## Dataset
 - v0.1 of dataset is present in data/.  </br>
@@ -13,17 +13,17 @@ Harsh Jhamtani, Taylor Berg-Kirkpatrick. Learning to Describe Differences Betwee
 - naming convention: <img_id>.png, <img_id>_2.png
 - we have also provided the corresponding diff images: <img_id>_diff.jpg
 - All images have been resized to 224,224
-- TODO: We will release the scene id's corresponding to each image 
+- Original size images: bit.ly/spot_diff_data
+
 #### Cluster data
 - We provide clusters of differing pixels computed under suggested paramter settings and clustering algorithm.
 - For more details, check Code/usage.ipynb
 
-## Code
+## Others
 - Clustering code has been added
-- Model code: TODO
+- Model Predictions (single) : TODO
+- Model Predictions (multi) : TODO
 
-## Requirements
-TODO
 
 ## Reference
 If you use the data or code, please consider citing
