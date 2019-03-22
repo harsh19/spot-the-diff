@@ -21,8 +21,9 @@ Link: https://arxiv.org/pdf/1808.10584.pdf
 
 ## Others
 - Clustering code has been added
-- Model Predictions (single) : TODO
-- Model Predictions (multi) : TODO
+
+TODO
+- Model Predictions (multi)
 
 
 ## Reference
