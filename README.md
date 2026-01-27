@@ -37,3 +37,14 @@ If you use the data or code, please consider citing
   year={2018}
 }
 ```
+
+
+## License
+
+- **Code**: MIT License (see LICENSE).
+- **Data**:
+  - Images derived from the VIRAT Video Dataset are governed by the
+    original VIRAT Video Dataset Usage Agreement (see DATA_LICENSE.txt).
+  - Text annotations created by the authors are released under the
+    MIT License unless otherwise noted.
+    
