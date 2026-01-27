@@ -1,0 +1,25 @@
+DATA LICENSE AND USAGE NOTICE
+
+This repository contains images derived from the VIRAT Video Dataset
+(Sangmin Oh et al., “A Large-scale Benchmark Dataset for Event Recognition
+in Surveillance Video”, CVPR 2011).
+
+The VIRAT Video Dataset is distributed under a separate usage agreement.
+Accordingly, images derived from VIRAT in this repository are NOT covered
+by the MIT License in this repository and remain governed by the original
+VIRAT Video Dataset Usage Agreement.
+
+Text annotations authored by the repository maintainers are original work
+and are released under the MIT License, unless otherwise noted.
+
+Key points regarding VIRAT-derived images:
+- VIRAT data and image-derived data may not be relicensed under MIT,
+  Apache, or Creative Commons licenses.
+- Redistribution of VIRAT-derived images is permitted only to users who
+  have agreed to the VIRAT Video Dataset Usage Agreement.
+- Publication of a limited number of frames in academic papers or
+  presentations is permitted with proper attribution.
+
+Users are responsible for ensuring compliance with the original VIRAT terms.
+
+VIRAT Dataset: https://viratdata.org
